@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Mittal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3> I'm currently pursuing a bachelor's degree in Computer Science and Technology from <b> Indian Institute of Technology, Ropar </b>. I'm interested in Web-Development, Competitive Programming and Data Structures and Algorithms.</h3>
+<h2 align="center">Software Developer || Competitive Programmer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul091&label=Profile%20views&color=0e75b6&style=flat" alt="anshul091" /> </p>
 
